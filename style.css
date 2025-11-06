@@ -157,6 +157,10 @@ div.video > iframe {
     height: 90%;
 }
 
+strong {
+    color: #5e120b;
+}
+
 a{
     color: #5e120b;
     text-decoration: none;

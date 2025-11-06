@@ -39,7 +39,6 @@ nav{
     justify-content: center;
 }
 nav > a{
-    align-items: ;
     font-size: 0.8em;
     color: white;
     margin-top: 0;
@@ -80,6 +79,14 @@ p.prev{
     padding: 25px;
     max-width: 400px;
 }
+
+p.info {
+    padding-top: 10px;
+    font-size: 0.8em;
+    text-align: center;
+    color: rgb(78, 75, 75);
+}
+
 
 h1{
     color: #A3281C;

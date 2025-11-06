@@ -137,6 +137,7 @@ div.foto {
   display: flex;
   justify-content: center;
   align-items: center;
+  width: 370px;
 }
 
 div.video {

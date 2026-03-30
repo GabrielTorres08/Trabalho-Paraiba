@@ -1,2 +1,3 @@
 # Projeto que eu criei para a escola
-Esse projeto tinha como objetivo principal a apresentação dos trabalhos relacionados a minha turma, mostrando a foto do trabalho e uma breve descrição
+Esse projeto tinha como objetivo principal a apresentação dos trabalhos relacionados a minha turma, mostrando a foto do trabalho e uma breve descrição.
+O projeto não apresenta um layout responsivo, já que foi criado nas pressas e especialmente para dispositivos móveis (celulares)
